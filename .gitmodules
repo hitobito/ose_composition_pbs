@@ -1,12 +1,9 @@
 [submodule "hitobito_pbs"]
 	path = hitobito_pbs
 	url = https://github.com/hitobito/hitobito_pbs.git
-	branch = master
 [submodule "hitobito_youth"]
 	path = hitobito_youth
 	url = https://github.com/hitobito/hitobito_youth.git
-	branch = master
 [submodule "hitobito"]
 	path = hitobito
 	url = https://github.com/hitobito/hitobito.git
-	branch = master
